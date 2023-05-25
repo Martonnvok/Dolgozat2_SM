@@ -1,0 +1,11 @@
+article{
+    margin:0 auto;
+    width: 500px;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+div{
+    border: 2px solid black;
+}
